@@ -1,7 +1,7 @@
 --JLC's Cash Collector--
 
 
-Snags cash from the ground,
+Snags cash from the ground anonymously,
 finds new servers automatically,
 and gains you housands of dollars easily.
 
